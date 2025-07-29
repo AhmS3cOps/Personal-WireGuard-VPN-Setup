@@ -23,8 +23,7 @@ As a student, I wanted to gain hands-on experience in setting up VPNs, specifica
 
 ### Here’s what the WireGuard client interface looks like once it’s active, showing the tunnel status and the connection details.
 
-![WireGuard Client Interface](https://i.imgur.com/DFfttJD.png)
-
+- ![vpn.jpg](image/vpn.jpg)
 
 ## Steps I Took to Set It Up
 
