@@ -21,6 +21,9 @@ As a student, I wanted to gain hands-on experience in setting up VPNs, specifica
 
 ---
 
+### Here’s what the WireGuard client interface looks like once it’s active, showing the tunnel status and the connection details.
+> ![Result](https://imgur.com/a/DFfttJD)
+
 ## Steps I Took to Set It Up
 
 ### Step 1: Setting Up an Oracle Cloud Account
