@@ -4,7 +4,6 @@
 
 This documentation outlines the steps I took to **set up a personal WireGuard VPN** server using **Oracle Cloud's Always Free Tier** and how I connected various devices to it. The goal was to enhance my online security and privacy while also learning more about **VPNs**, **networking**, and **self-hosting**.
 
-
 ### Why I Did This
 
 As a student, I wanted to gain hands-on experience in setting up VPNs, specifically a **WireGuard VPN**, because:
